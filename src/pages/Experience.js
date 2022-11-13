@@ -35,7 +35,6 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Lagos, Nigeria
           </h4>
-          <p> Worked on several front end application. </p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -51,7 +50,7 @@ function Experience() {
             Lagos, Nigeria
           </h4>
           <p>
-            Developed several applications using .NET framework.
+            
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
