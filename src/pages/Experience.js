@@ -66,6 +66,7 @@ function Experience() {
           <p>
             
           </p>
+       </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
   );
