@@ -23,6 +23,21 @@ function Experience() {
           <p> Bachelor Of Science (B.Sc) Computer Science </p>
         </VerticalTimelineElement>
         
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2019 - 2021"
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineer - University of Ilorin
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Kwara State, Nigeria
+          </h4>
+        </VerticalTimelineElement>
+
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2021 - 2022"
@@ -52,21 +67,6 @@ function Experience() {
           <p>
             
           </p>
-
-        </VerticalTimelineElement>
-          <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="2019 - 2021"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Software Engineer - University of Ilorin
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Kwara State, Nigeria
-          </h4>
-        </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
   );
