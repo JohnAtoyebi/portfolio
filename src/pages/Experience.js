@@ -64,7 +64,7 @@ function Experience() {
             Software Engineer - University of Ilorin
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Lagos, Nigeria
+            Kwara State, Nigeria
           </h4>
         </VerticalTimelineElement>
       </VerticalTimeline>
