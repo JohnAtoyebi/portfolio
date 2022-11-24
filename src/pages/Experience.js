@@ -23,7 +23,6 @@ function Experience() {
           <p> Bachelor Of Science (B.Sc) Computer Science </p>
         </VerticalTimelineElement>
         
-          </VerticalTimelineElement>
           <VerticalTimelineElement
           className="vertical-timeline-element--work"
           date="2019 - 2021"
